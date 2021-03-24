@@ -26,10 +26,10 @@
   
   [数据结构进阶](https://longxin25.github.io/Algorithm/docs/03)
   
-  [查找与搜索算法](https://longxin25.github.io/Algorithm/docs/04)
+  [常用排序算法](https://longxin25.github.io/Algorithm/docs/04)
   
-  [常用排序算法](https://longxin25.github.io/Algorithm/docs/05)
+  [常用算法思想](https://longxin25.github.io/Algorithm/docs/05)
   
-  [常用算法思想](https://longxin25.github.io/Algorithm/docs/06)
+  [应用实例及分析](https://longxin25.github.io/Algorithm/docs/06)
   
-  [总结](https://longxin25.github.io/Algorithm/docs/07)
+  [思维导图|总结](https://longxin25.github.io/Algorithm/docs/07)
