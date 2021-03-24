@@ -34,4 +34,4 @@
   
   [应用实例及分析](https://longxin25.github.io/Algorithm/docs/06)
   
-  [笔迹内容总结](https://longxin25.github.io/Algorithm/docs/07)
+  [笔记内容总结](https://longxin25.github.io/Algorithm/docs/07)
