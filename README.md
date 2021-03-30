@@ -22,11 +22,11 @@
   
 ### 快速开始
 
-  [笔记阅读传送门](https://longxin25.github.io/Algorithm)
+  [笔记首页](https://longxin25.github.io/Algorithm)
 
 ---
 
-### 目录
+  * 目录
   
   [准备知识](https://longxin25.github.io/Algorithm/docs/01)
   
